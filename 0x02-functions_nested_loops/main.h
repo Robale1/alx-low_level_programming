@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_HINCLUDED
-#define HOLBERTON_H_INCLUDED
+#ifndef _PUTCHAR_H_INCLUDED
+#define _PUTCHAR_H_INCLUDED
 
 void print_alphabet(void);
 void print_alphabet_x10(void);
