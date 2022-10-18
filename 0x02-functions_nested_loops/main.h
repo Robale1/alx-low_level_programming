@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef HOLBERTON_HINCLUDED
+#define HOLBERTON_H_INCLUDED
 
 void print_alphabet(void);
 void print_alphabet_x10(void);
