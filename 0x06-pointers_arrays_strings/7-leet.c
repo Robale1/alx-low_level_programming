@@ -9,9 +9,7 @@
   * Return: The encoded string
   */
 char *leet(char *s)
-{
-	int a = 0;
-	int a = 0, b = 0, l = 5;
+{											int a = 0, b = 0, l = 5;
 	char r[5] = {'A', 'E', 'O', 'T', 'L'};
 	char n[5] = {'4', '3', '0', '7', '1'};
 
