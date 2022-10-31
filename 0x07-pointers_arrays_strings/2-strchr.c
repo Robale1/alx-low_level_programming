@@ -9,7 +9,6 @@
 char *_strchr(char *s, char c)
 {
 	int a = 0, b, pos = 0;
-	int a = 0, b;
 
 	while (s[a])
 	{
