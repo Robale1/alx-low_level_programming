@@ -32,29 +32,4 @@ int check_prime(int n, int i)
 	if ((n / i) < i)
 		return (1);
 
-	return (check_prime(n, i + 1));
-}
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"6-is_prime_number.c" [New File]                              0,0-1         All
-
+	return (check_prime(n, i + 1));						}
